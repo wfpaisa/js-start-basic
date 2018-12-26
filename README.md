@@ -1,1 +1,1 @@
-# Plane GTK color
+# JS start basic files
